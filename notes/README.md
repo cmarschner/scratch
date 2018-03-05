@@ -35,7 +35,7 @@
 * Face++ Team: COCO & PLACES Challenges 2017 (Tricks around Object Detection). http://presentations.cocodataset.org/COCO17-Detect-Megvii.pdf
 * Zhou and Tuzel: VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection. 2017. Apple. https://arxiv.org/pdf/1711.06396.pdf
 * Feichtendorfer et al., Detect to Track and Track to Detect. (Graz / Oxford). https://arxiv.org/abs/1710.03958
-
+* Xie et al., Semantic Instance Segmentation of Street Scenes by 3d to 2d label transfer. https://arxiv.org/abs/1511.03240
 ## Segmentation
 
 * De Brabandere et al., Semantic Instance Segmentation with Discriminative Loss Function. CVPR2017. KU Leuven. https://arxiv.org/abs/1708.02551
