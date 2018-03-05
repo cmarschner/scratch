@@ -1,4 +1,4 @@
-# Lists
+# Recent Computer Vision Resources (roughly 2017 onwards)
 
 ## Blog Articles / Tutorials
 
