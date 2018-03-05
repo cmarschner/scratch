@@ -18,6 +18,7 @@
 ## Learning on Point Clouds
 * Qi et al., PointNet (2017, Stanford) http://stanford.edu/~rqi/pointnet/
 * Qi et al., PointNet++ (2017, Stanford), https://arxiv.org/abs/1706.02413
+* https://arxiv.org/abs/1802.08219v1
 
 ## Geometry
 * http://geometricdeeplearning.com/
