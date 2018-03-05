@@ -5,6 +5,7 @@
 * Alex Kendall, Have we Forgotten about Geometry in Deep Learning. 2017. https://alexgkendall.com/computer_vision/have_we_forgotten_about_geometry_in_computer_vision/
 * Tutorial: Visual Odometry. http://www.eng.auburn.edu/~troppel/courses/00sum13/7970%202013A%20ADvMobRob%20sp13/literature/vis%20odom%20tutor%20part1%20.pdf
 * Deep Learning for Objects and Scenes, CVPR 2017 Tutorial (feat. Ross Girshik, Kaiming He), http://deeplearning.csail.mit.edu/
+* 3D Deep Learning. CVPR 2017 Tutorial, http://3ddl.stanford.edu/
 
 ## Depth
 
@@ -13,7 +14,14 @@
 
 ## Lane Finding
  * CV-Based Lane Finding: UDacity articles - https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0 - http://www.coldvision.io/2017/03/02/advanced-lane-finding-using-opencv/ - https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514
- 
+
+## Learning on Point Clouds
+* Qi et al., PointNet (2017, Stanford) http://stanford.edu/~rqi/pointnet/
+* Qi et al., PointNet++ (2017, Stanford), https://arxiv.org/abs/1706.02413
+
+## Geometry
+* http://geometricdeeplearning.com/
+
 ## DL SLAM
 
 * Wang et al., DeepVO: Towards End-to-End Visual (monocular) Odometry with Deep Recurrent Convolutional Neural Networks. 2017, https://arxiv.org/abs/1709.08429 - Code: https://senwang.gitlab.io/DeepVO/
