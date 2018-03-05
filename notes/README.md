@@ -41,3 +41,7 @@
 
 * Pavlakos et al., 6-DoF Object Pose from Semantic Keypoints. 2017. https://arxiv.org/abs/1703.04670
 * Newell et al., Stacked Hourglass Networks for Human Pose Estimation. https://arxiv.org/abs/1603.06937 - _Might be interesting for learning about making the net learn about spatial constraints_.
+
+## Deep Learning Stuff
+
+* Kendall et al., Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics. https://arxiv.org/abs/1705.07115 _Principled approach to weighting of multi-task learners._
