@@ -4,12 +4,16 @@
 
 * Alex Kendall, Have we Forgotten about Geometry in Deep Learning. 2017. https://alexgkendall.com/computer_vision/have_we_forgotten_about_geometry_in_computer_vision/
 * Tutorial: Visual Odometry. http://www.eng.auburn.edu/~troppel/courses/00sum13/7970%202013A%20ADvMobRob%20sp13/literature/vis%20odom%20tutor%20part1%20.pdf
+* Deep Learning for Objects and Scenes, CVPR 2017 Tutorial (feat. Ross Girshik, Kaiming He), http://deeplearning.csail.mit.edu/
 
 ## Depth
 
 * Garg et al., Unsupervised CNN for Single View Depth Estimation: Geometry to the Rescue. 2016. UAdelaide.  https://arxiv.org/abs/1603.04992
 * Zhou et al., Unsupervised learning of Depth and ego-motion from Video. https://arxiv.org/abs/1704.07813
 
+## Lane Finding
+ * CV-Based Lane Finding: UDacity articles - https://medium.com/@galen.ballew/opencv-lanedetection-419361364fc0 - http://www.coldvision.io/2017/03/02/advanced-lane-finding-using-opencv/ - https://medium.com/@ajsmilutin/advanced-lane-finding-5d0be4072514
+ 
 ## DL SLAM
 
 * Wang et al., DeepVO: Towards End-to-End Visual (monocular) Odometry with Deep Recurrent Convolutional Neural Networks. 2017, https://arxiv.org/abs/1709.08429 - Code: https://senwang.gitlab.io/DeepVO/
