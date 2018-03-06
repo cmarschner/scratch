@@ -38,9 +38,11 @@
 
 ## Datasets / Tasks
 
+* Dataset list on the segmentation models page - https://github.com/mrgloom/awesome-semantic-segmentation
 * Peng et al., VisDA, the visual Domain Adaptation Challenge. https://arxiv.org/abs/1710.06924 (UBoston/Berkley)
 * Kitti Road Estimation, http://www.cvlibs.net/datasets/kitti/eval_road.php
 * CityScapes Dataset, https://www.cityscapes-dataset.com/ - Cordts et al., Cityscapes Dataset for Semantic Urban Scene Understanding. 2016. Daimler, MPI, TU Dresden. https://arxiv.org/abs/1604.01685#
+* 
 
 ## Detection / Tracking
 
@@ -49,8 +51,18 @@
 * Zhou and Tuzel: VoxelNet: End-to-End Learning for Point Cloud Based 3D Object Detection. 2017. Apple. https://arxiv.org/pdf/1711.06396.pdf
 * Feichtendorfer et al., Detect to Track and Track to Detect. (Graz / Oxford). https://arxiv.org/abs/1710.03958
 * Xie et al., Semantic Instance Segmentation of Street Scenes by 3d to 2d label transfer. https://arxiv.org/abs/1511.03240
+
 ## Segmentation
 
+* 2017 guide to semantic segmentation: http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review
+* List of segmentation models / implementations - https://github.com/mrgloom/awesome-semantic-segmentation
+ * incl. Road segmentation: https://github.com/tangzhenyu/SemanticSegmentation_DL#road-segmentation
+  * MultiNet https://github.com/MarvinTeichmann/MultiNet (TF 1.0, focus on speed)
+* Another overview (incl. datasets etc.) - https://github.com/tangzhenyu/SemanticSegmentation_DL
+* DeepLabV3
+  * Homepage of Liang-Chieh Chen: http://liangchiehchen.com/
+  * Implementations: Tensorflow: https://github.com/NanqingD/DeepLabV3-Tensorflow (not on parity with paper), https://github.com/zl1446/DeepLabV3 (no numbers)
+* pix2pix HD (NVidia) - https://github.com/NVIDIA/pix2pixHD
 * De Brabandere et al., Semantic Instance Segmentation with Discriminative Loss Function. CVPR2017. KU Leuven. https://arxiv.org/abs/1708.02551
 * Kendall/Badrinarayanan et al., (Bayesian) SegNet, http://mi.eng.cam.ac.uk/projects/segnet/#publication
 
