@@ -6,6 +6,7 @@
 * Tutorial: Visual Odometry. http://www.eng.auburn.edu/~troppel/courses/00sum13/7970%202013A%20ADvMobRob%20sp13/literature/vis%20odom%20tutor%20part1%20.pdf
 * Deep Learning for Objects and Scenes, CVPR 2017 Tutorial (feat. Ross Girshik, Kaiming He), http://deeplearning.csail.mit.edu/
 * 3D Deep Learning. CVPR 2017 Tutorial, http://3ddl.stanford.edu/
+* Tutorial on Computer Vision for Autonomous Driving. ICCV 2017. https://sites.google.com/site/cvadtutorial15/
 * Computer vision in vehicle technology. CVPR 2017 workshop. http://adas.cvc.uab.es/cvvt2017/
 
 ## Depth
